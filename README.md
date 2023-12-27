@@ -1,6 +1,8 @@
 # README
 
-![image](images/spiral_2023-12-27T23h10m16.png "Turtle graph") ![image](images/red-yellow_star_2023-12-28T00h37m34.png "Turtle graph2")
+Spiral             |  Star
+:-------------------------:|:-------------------------:
+![image](images/spiral_2023-12-27T23h10m16.png "Turtle graph")  |  ![image](images/red-yellow_star_2023-12-28T00h37m34.png "Turtle graph2")
 
 ## Turtle Documentation
 https://docs.python.org/3/library/turtle.html
