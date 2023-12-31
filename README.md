@@ -2,7 +2,9 @@
 
 Spiral             |  Star
 :-------------------------:|:-------------------------:
-![image](images/spiral_2023-12-27T23h10m16.png "Turtle graph")  |  ![image](images/red-yellow_star_2023-12-28T00h37m34.png "Turtle graph2")
+![image](images/png/spiral_2023-12-27T23h10m16.png "tricolor_spiral")  |  ![image](images/png/red-yellow_star_2023-12-28T00h37m34.png "red-yellow_star")
+![image](images/png/rainbow_spiral_2023-12-31T10h50m50.png "rainbow_spiral")
+
 
 ## Turtle Documentation
 https://docs.python.org/3/library/turtle.html
